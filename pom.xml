@@ -21,7 +21,7 @@
     <artifactId>geomesa-accumulo1.5</artifactId>
     <version>1.0.0-rc.3-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>GeoMesa - [Accumulo 1.5.x]</name>
+    <name>GeoMesa - [Accumulo 1.6.x]</name>
 
     <modules>
         <module>geomesa-utils</module>
@@ -46,7 +46,7 @@
 
         <!-- environment-dependent versions -->
         <zookeeper.version>3.4.5</zookeeper.version>
-        <accumulo.version>1.5.1</accumulo.version>
+        <accumulo.version>1.6.1</accumulo.version>
         <hadoop.version>2.2.0</hadoop.version>
         <scalding.version>0.11.2</scalding.version>
 
